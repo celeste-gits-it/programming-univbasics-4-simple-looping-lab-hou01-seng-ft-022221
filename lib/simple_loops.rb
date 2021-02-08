@@ -11,7 +11,6 @@ counter = 0
 end
 
 def loop_message_n_times(message, integer)
-message = "Drama Queen"
 integer = 4
 counter = 0
 
