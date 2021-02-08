@@ -10,9 +10,9 @@ counter = 0
   end
 end
 
-def loop_message_n_times(message1, message2)
-message1 = "Hello Moon."
-message2 = "Hello Red Balloon."
+def loop_message_n_times(message, integer)
+message = "Hello Moon."
+integer = 
 counter = 0
 
   while counter < 4 do 
