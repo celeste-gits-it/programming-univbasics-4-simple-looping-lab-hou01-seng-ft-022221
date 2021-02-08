@@ -15,11 +15,11 @@ message1 = "Hello Moon."
 message2 = "Hello Red Balloon."
 counter = 0
 
-  while counter < 5 do 
+  while counter < 4 do 
   puts message1
   counter +=1
   end
-    while counter < 15 do
+    while counter < 8 do
     puts message2
     counter += 1
     end
