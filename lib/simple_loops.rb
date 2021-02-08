@@ -1,7 +1,7 @@
 # Write your methods here 
 
 def loop_message_five_times(message)
-message = "Hello World."
+message = "Chile Please"
 counter = 0
 
   while counter < 5 do 
@@ -11,18 +11,14 @@ counter = 0
 end
 
 def loop_message_n_times(message, integer)
-message = "Hello Moon."
-integer = 
+message = "Drama Queen"
+integer = 4
 counter = 0
 
-  while counter < 4 do 
-  puts message1
+  while counter < integer do 
+  puts message
   counter +=1
   end
-    while counter < 8 do
-    puts message2
-    counter += 1
-    end
 end
 
 def output_array(array)
